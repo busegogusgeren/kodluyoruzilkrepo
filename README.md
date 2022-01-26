@@ -1,3 +1,4 @@
 # kodluyoruzilkrepo
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-test
+[Proje Resim](https://github.com/busegogusgeren/kodluyoruzilkrepo/blob/main/project.png)
